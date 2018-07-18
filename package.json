@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vaishali-Shahare/PaymentWall/issues"
   },
-  "homepage": "https://github.com/Vaishali-Shahare/PaymentWall#readme"
+  "homepage": "https://github.com/Vaishali-Shahare/PaymentWall#readme",
+  "dependencies": {
+    "@angular/cli": "^6.0.8"
+  }
 }
